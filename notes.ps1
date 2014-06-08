@@ -11,6 +11,13 @@ git commit -m "add this FILE"
 git status after this will...
 #show nothing really
 
+How do you add all files to your stage?
+git add --all
 
+git log shows...
+#Author, time and the commit message (keep it in the present tense, say what the commit does)
+
+Is there a God?
+#no one knows
 git workflow
 #Do a little bit of work, stage it (add) and make a commit (with a message)
