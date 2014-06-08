@@ -19,5 +19,7 @@ git log shows...
 
 Is there a God?
 #no one knows
+
+where where where where and why? where are we now?
 git workflow
 #Do a little bit of work, stage it (add) and make a commit (with a message)
